@@ -66,7 +66,3 @@ Contributions, issue reports, and feature requests are welcome. Please open issu
 ## 📜 License
 
 This project is distributed under the **MIT License**. See the `LICENSE` file for details.
-
----
-
-*Want me to add a `requirements.txt`, an example report screenshot, or CI workflow to this README?*
