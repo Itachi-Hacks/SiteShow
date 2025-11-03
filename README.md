@@ -22,15 +22,24 @@
 > Requirements file will be added soon. For now, ensure Python 3.8+ is installed.
 
 ```bash
-# Future setup
-# pip install -r requirements.txt
+# Update package list
+sudo apt update
+
+# Install Python and pip (if not already installed)
+sudo apt install python3 python3-pip -y
+
+# Install required system dependencies
+sudo apt install build-essential python3-dev -y
 ```
 
 ## 🚀 Quick Start
 
 **Author:** TricksterClown02
 
-> No extra dependencies required right now. (You may add `requirements.txt` later.)
+pip3 install requests beautifulsoup4 urllib3 lxml
+#if doed not work the try 
+
+pip3 install requests beautifulsoup4 urllib3 lxml --break-system-packages
 
 **Run the scanner:**
 
