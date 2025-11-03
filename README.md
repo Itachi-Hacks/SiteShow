@@ -19,8 +19,6 @@
 
 ## ⚙️ Installation
 
-> Requirements file will be added soon. For now, ensure Python 3.8+ is installed.
-
 ```bash
 # Update package list
 sudo apt update
