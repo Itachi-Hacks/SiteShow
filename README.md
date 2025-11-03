@@ -34,7 +34,7 @@ sudo apt install build-essential python3-dev -y
 
 ## 🚀 Quick Start
 
-**Author:** TricksterClown02
+**Author:** Tricks2erCl0wn
 
 ```bash
 pip3 install requests beautifulsoup4 urllib3 lxml
@@ -42,7 +42,7 @@ pip3 install requests beautifulsoup4 urllib3 lxml
 #if doed not work the try
 pip3 install requests beautifulsoup4 urllib3 lxml --break-system-packages
 
-**Run the scanner:**
+#Run the scanner
 
 python site_show.py
 ```
